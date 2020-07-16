@@ -23,6 +23,27 @@ module.exports = {
 };
 ``` 
 
+## Support for Native Events
+
+Install [jsx-native-events](https://github.com/calebdwilliams/jsx-native-events) to add support for native events that are used in Web Components.
+
+Numl has two main events: `tap` (for action elements) and `input` (for widget elements like input, slider and more).
+
+```jsx
+/* @jsx nativeEvents */
+import nativeEvents from 'jsx-native-events';
+
+export default function Input({ onInput }) {
+    function handle(e) {
+        if (onInput) {
+          onInput(e.detail);
+        }
+    }
+
+    return <nu-input onEventInput={handle}></nu-input>;
+}
+```
+
 ## Examples
 
 You learn more about **Numl Design System** visit the [Official Numl Site](https://numl.design).
