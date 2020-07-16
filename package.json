@@ -1,0 +1,21 @@
+{
+  "name": "gatsby-plugin-numl",
+  "version": "0.0.1",
+  "description": "Gatsby plugin for Numl Design System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "numl"
+  ],
+  "author": "Andrey Yamanov <tenphi@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "numl": "^0.11.29"
+  },
+  "peerDependencies": {
+    "gatsby": "^2.0.0",
+    "react": "^16.4.2"
+  }
+}
