@@ -1,7 +1,7 @@
 {
-  "name": "gatsby-plugin-numl",
-  "version": "0.0.2",
-  "description": "Gatsby plugin for Numl Design System",
+  "name": "gatsby-plugin-hide-undefined-elements",
+  "version": "0.0.1",
+  "description": "Gatsby plugin to hide undefined (not-yet-defined) Web Components and Custom Elements",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
