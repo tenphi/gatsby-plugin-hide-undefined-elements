@@ -23,7 +23,7 @@ module.exports = {
 
 ## See more
 
-- [gatsby-plugin-numl](https://github.com/tenphi/gatsby-plugin-numl) - Plugin to inject Numl Design System to your project.
+- [gatsby-plugin-numl](https://github.com/tenphi/gatsby-plugin-numl) - Plugin to inject Numl Design System to your Gatsby project.
 
 ## Sponsors
 
