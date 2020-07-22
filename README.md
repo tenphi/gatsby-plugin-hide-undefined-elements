@@ -19,8 +19,12 @@ There are no options for the plugin. Just add `gatsby-plugin-hide-undefined-elem
 module.exports = {
   plugins: [`gatsby-plugin-hide-undefined-elements`],
 };
-``` 
+```
+
+## See more
+
+- [gatsby-plugin-numl](https://github.com/tenphi/gatsby-plugin-numl) - Plugin to inject Numl Design System to your project.
 
 ## Sponsors
 
-- [Numl Design System Framework](https://github.com/tenphi/numl)
+- [Numl Design System Framework](https://numl.design) - A customizable design system based on Web Components.
