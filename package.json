@@ -7,13 +7,10 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "numl"
+    "web components"
   ],
   "author": "Andrey Yamanov <tenphi@gmail.com>",
   "license": "MIT",
-  "dependencies": {
-    "numl": "^0.11.29"
-  },
   "peerDependencies": {
     "gatsby": "^2.0.0",
     "react": "^16.4.2"
