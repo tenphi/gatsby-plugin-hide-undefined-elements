@@ -1,6 +1,6 @@
 {
   "name": "gatsby-plugin-hide-undefined-elements",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Gatsby plugin to hide undefined (not-yet-defined) Web Components and Custom Elements",
   "main": "index.js",
   "scripts": {
